@@ -40,15 +40,6 @@ const rainnoon = {
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,npm,yarn&theme=dark" />
 </div>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rainnoon&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="180"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rainnoon&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
 
 ## 🎯 What I'm Working On
 
