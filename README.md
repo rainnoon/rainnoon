@@ -31,7 +31,7 @@ const rainnoon = {
 ### 🛠️ Backend & Infrastructure
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,python,postgresql,redis,solidity,ethereum,docker,aws&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,python,postgresql,docker&theme=dark" />
 </div>
 
 ### 🔧 Tools & Environment
